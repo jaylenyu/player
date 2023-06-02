@@ -1,0 +1,16 @@
+{
+  "name": "player",
+  "version": "1.0.0",
+  "description": "player",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaylenyu/player.git"
+  },
+  "author": "Jaylenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaylenyu/player/issues"
+  },
+  "homepage": "https://github.com/jaylenyu/player#readme"
+}
