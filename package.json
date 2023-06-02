@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/jaylenyu/player.git"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Jaylenyu",
   "license": "ISC",
   "bugs": {
