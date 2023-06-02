@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaylenyu/player/issues"
   },
-  "homepage": "https://github.com/jaylenyu/player#readme"
+  "homepage": "https://github.com/jaylenyu/player#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
