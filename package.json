@@ -8,7 +8,7 @@
     "url": "git+https://github.com/jaylenyu/player.git"
   },
   "scripts": {
-    "start": "node index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "author": "Jaylenyu",
   "license": "ISC",
@@ -18,5 +18,11 @@
   "homepage": "https://github.com/jaylenyu/player#readme",
   "dependencies": {
     "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/node": "^7.22.1",
+    "@babel/preset-env": "^7.22.4",
+    "nodemon": "^2.0.22"
   }
 }
